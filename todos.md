@@ -20,10 +20,10 @@ accent color: #FD940A
 
 <!-- # h1 -->
 
-# Comment code
+<!-- # Comment code -->
 
 <!-- # Font -->
 
-# github
+<!-- # github -->
 
-# send
+<!-- # send -->
