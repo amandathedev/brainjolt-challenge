@@ -1,0 +1,20 @@
+.navbar {
+  background-color: #1499A1;
+  color: white;
+}
+
+a {
+  color: white;
+  font-weight: 900;
+  font-size: 1.1em;
+  text-transform: uppercase;
+}
+
+.navbar-brand {
+  text-align: center;
+}
+
+#header-num {
+  font-size: 1.8em;
+}
+
