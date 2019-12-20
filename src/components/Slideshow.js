@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom";
 import "../styles/slideshow.css";
 
@@ -49,6 +49,10 @@ const Slideshow = () => {
 
   // componentDidMount
   // Set random slide on page load or refresh
+
+  useEffect(() => {
+    randomSlides();
+  }, []);
 
   // Should show new image without reload
 

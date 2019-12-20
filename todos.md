@@ -4,7 +4,7 @@
 
 <!-- # 5+ slides with image and headline -->
 
-# Show a slide at random on page load (array)
+<!-- # Show a slide at random on page load (array) -->
 
 <!-- # Next button under slides, on click show a random slide that hasn't been shown before -->
 
